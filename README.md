@@ -34,7 +34,7 @@ The M-GDAB is an end-to-end framework, which can input, parse, train and evaluat
 ```
 git clone https://github.com/Weihankk/M-GDAB.git
 
-cd brainGCN
+cd M-GDAB
 ```
 
 > Raw data download shell scripts are all within ./Raw_data folder, Please ensure that you have permissions to the appropriate database and agree with the terms before downloading.
