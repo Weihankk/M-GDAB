@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Weihankk/M-GDAB/blob/main/logo.png" width="130px">
 
-*A Multi netorks fusion framwork to predict gene-disease associations of brain*
+*A Multi network fusion framwork to predict gene-disease associations of brain*
 
 ---------------
 # Machine required
