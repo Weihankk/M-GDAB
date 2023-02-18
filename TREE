@@ -1,6 +1,3 @@
-# Raw data
-
-```
 .
 ├── Allen_Human_Brain_Atlas
 │   ├── AHBA_download.sh
@@ -91,7 +88,4 @@
 │   └── HCP_S1200_1003_rfMRI_MSMAll_groupPCA_d4500_Eigenmaps.dtseries.nii
 └── TREE
 
-```
-
-- Although these data are public, due to license restrictions, we cannot directly provide the original data, you can go to the original database to register and agree to the data usage conditions to download.
-- We have provided the original numbers and filenames of all download data for your confirmation.
+14 directories, 75 files

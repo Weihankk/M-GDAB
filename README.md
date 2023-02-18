@@ -1,6 +1,16 @@
-> %% **Code and data are not currently publicly available as our studies has not yet been accepted for publishing.**
+# Please read this section first~
+> %% **Since the raw data requires registration to be downloaded for free, we provide preprocessed data here for peer review testing **
 
-> %% **When our research is accepted for publication we make sure to release the code as soon as possible.**
+- [Click here to donwload preprocessed data](https://drive.google.com/file/d/1pZEW8AjaiswjTTa7O_04AMyM9uA7fLLF/view?usp=sharing)
+
+- After the download is complete, extract it to the M-GDAB directory
+- Then, just run:
+
+- `python K1.py`
+- `python K2.py`
+- `python K3.py`
+- `python K4.py`
+- `python K5.py`
 
 
 <img src="https://github.com/Weihankk/M-GDAB/blob/main/logo.png" width="130px">
